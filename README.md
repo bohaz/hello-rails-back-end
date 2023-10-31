@@ -24,6 +24,8 @@
 
 This is an exercise to connect the Front-end with the Back-end as two individual applications.
 
+- [React Front-end](https://github.com/bohaz/hello-react-front-end)
+
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -136,6 +138,6 @@ If you like this project let me know with a STAR⭐!
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/bohaz/Budget-app/blob/dev/MIT.md) licensed.
+This project is [MIT](https://github.com/bohaz/hello-rails-back-end/blob/set-up-backend/MIT.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
